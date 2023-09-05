@@ -7,3 +7,9 @@ The CCS of compound ions with similar structure changes regularly with m/z. Expl
 ## Software
 
 This software was developed to study the ion distribution trend of specific structural types of compounds in IM-MS analysis, realizing rapid and automatic screening of chemical structural analogues in complex systems based on IM-MS analysis, and improving the efficiency of IM-MS data analysis and compound identification.
+
+## Citation
+
+J.H. Wen, A.Q. Guo, M.N. Li, H. Yang, A structural similarity networking assisted collision cross-section prediction interval filtering strategy for multi-compound identification of complex matrix by ion-mobility mass spectrometry. Analytica Chimica Acta, 2023, 1278: 341720. https://doi.org/10.1016/j.aca.2023.341720
+
+Sep 5, 2023
